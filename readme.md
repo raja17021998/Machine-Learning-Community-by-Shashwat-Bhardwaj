@@ -1,11 +1,36 @@
+<h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4.5%"></h1>
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4.5%"></h1>
+<h2 align="center">🌟 Welcome to Our Machine Learning Community 🌟</h2>
 
-<h1 align="center">Welcome to Our Machine Learning Community</h1>
+<p align="center">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHJoZGdxN3BtN2Jjb3R0MjljNjIyYWQxZm8zbGcwZ3V3ejJ0dXJiOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8qrrHSsrK9xpknGVNF/giphy.webp" width="100%" height="150">
+</p>
 
-<h1 align="center">This is Shashwat Bhardwaj currently pursuing MSR in MINDS from Indian Institute of Technology, Delhi.</h1>
+#### 👋 Hello! I'm Shashwat Bhardwaj, currently pursuing MSR in MINDS from the Indian Institute of Technology, Delhi.
 
-<h1 align="center"> Goal is to help the community and self revision. </h1>
+#### 🎯 Our goal is to help the community and facilitate self-revision.
+
+#### 🙏 I would like to extend my heartfelt thanks to:
+
+- **Mentors**
+    - Soumyodeep Dey - MSR MINDS - IIT Delhi - [![LinkedIn](https://github.com/raja17021998/Machine-Learning-Community-by-Shashwat-Bhardwaj/blob/main/Logos/LinkedIn.png?raw=true)](https://www.linkedin.com/in/welcome-to-the-profile-of-soumyodeep/) 
+    - Anamitra Singha - MSR SIT - IIT Delhi - [![LinkedIn](https://github.com/raja17021998/Machine-Learning-Community-by-Shashwat-Bhardwaj/blob/main/Logos/LinkedIn.png?raw=true)](https://www.linkedin.com/in/anamitrasingha/)
+    - Anant Sah - MTech MINDS - IIT Delhi - [![LinkedIn](https://github.com/raja17021998/Machine-Learning-Community-by-Shashwat-Bhardwaj/blob/main/Logos/LinkedIn.png?raw=true)](https://www.linkedin.com/in/anant-kumar-8b8663215/) 
+    - Rajasekhar Reddy - MTech MINDS - IIT Delhi - [![LinkedIn](https://github.com/raja17021998/Machine-Learning-Community-by-Shashwat-Bhardwaj/blob/main/Logos/LinkedIn.png?raw=true)](https://www.linkedin.com/in/rajasekhar-reddy-5ab10089/) 
+    - Mikshu Bhatt - MTech MINDS - IIT Delhi - [![LinkedIn](https://github.com/raja17021998/Machine-Learning-Community-by-Shashwat-Bhardwaj/blob/main/Logos/LinkedIn.png?raw=true)](https://www.linkedin.com/in/mikshu-bhatt-110271194/) 
+    - Lakshay Kakkar - MSR CSE - IIT Delhi - [![LinkedIn](https://github.com/raja17021998/Machine-Learning-Community-by-Shashwat-Bhardwaj/blob/main/Logos/LinkedIn.png?raw=true)](https://www.linkedin.com/in/lakshay-kakkar-32aa12118/) 
+    - Avnish Pamanandka - MSR CTech - IIT Delhi - [![LinkedIn](https://github.com/raja17021998/Machine-Learning-Community-by-Shashwat-Bhardwaj/blob/main/Logos/LinkedIn.png?raw=true)](https://www.linkedin.com/in/avnish-parmanandka-266686177/) 
+    - T Karthikeyan - PhD MINDS - IIT Delhi - [![LinkedIn](https://github.com/raja17021998/Machine-Learning-Community-by-Shashwat-Bhardwaj/blob/main/Logos/LinkedIn.png?raw=true)](https://www.linkedin.com/in/t-karthikeyan-926781166/) 
+    - Akshit Varmora - IIT Bombay - [![LinkedIn](https://github.com/raja17021998/Machine-Learning-Community-by-Shashwat-Bhardwaj/blob/main/Logos/LinkedIn.png?raw=true)](https://www.linkedin.com/in/akshit-varmora/) 
+
+- **Group Coordinators and Administrators**
+    - Aditya Azad - MTech CSE - IIT Kanpur - [![LinkedIn](https://github.com/raja17021998/Machine-Learning-Community-by-Shashwat-Bhardwaj/blob/main/Logos/LinkedIn.png?raw=true)](https://www.linkedin.com/in/adityaazad/)
+    - Ruchita Rani - MTech CSE - IIT Kanpur - [![LinkedIn](https://github.com/raja17021998/Machine-Learning-Community-by-Shashwat-Bhardwaj/blob/main/Logos/LinkedIn.png?raw=true)](https://www.linkedin.com/in/ruchita-rani-9b8b95204) 
+    - Preetam Chauhan - GATE DA Aspirant - [![LinkedIn](https://github.com/raja17021998/Machine-Learning-Community-by-Shashwat-Bhardwaj/blob/main/Logos/LinkedIn.png?raw=true)](https://www.linkedin.com/in/preetam-chauhan) 
+
+
+
+#### 🚀 Let's build a thriving community together! Join us on this exciting journey of learning and growth in the field of Machine Learning. 🌐
 
 <center>
 
