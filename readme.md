@@ -6,13 +6,27 @@
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHJoZGdxN3BtN2Jjb3R0MjljNjIyYWQxZm8zbGcwZ3V3ejJ0dXJiOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8qrrHSsrK9xpknGVNF/giphy.webp" width="100%" height="300">
 </p>
 
-#### 👋 Hello! I'm Shashwat Bhardwaj, currently pursuing MSR in MINDS from the Indian Institute of Technology, Delhi.
+### 👋 Hello! I'm Shashwat Bhardwaj, currently pursuing MSR in MINDS from the Indian Institute of Technology, Delhi.
 
-#### 🎯 Our goal is to help the community and facilitate self-revision.
+### 🎯 Our goal is to help the community and facilitate self-revision.
 
-#### 🙏 I would like to extend my heartfelt thanks to:
+## Table of Contents
+1. [About Us](#about-us)
+2. [Mentors](#mentors)
+3. [Group Coordinators and Administrators](#group-coordinators-and-administrators)
+4. [Join Us](#join-us)
+5. [Class Resources](#class-resources)
 
-- **Mentors**
+## About Us
+<!-- <p> -->
+Our Machine Learning Community is dedicated to fostering a collaborative environment where enthusiasts, students, and professionals can come together to learn, share, and grow.
+<!-- </p> -->
+
+
+
+### 🙏 I would like to extend my heartfelt thanks to:
+
+- #### **Mentors**
     - Soumyodeep Dey - MSR MINDS - IIT Delhi - [![LinkedIn](https://github.com/raja17021998/Machine-Learning-Community-by-Shashwat-Bhardwaj/blob/main/Logos/LinkedIn.png?raw=true)](https://www.linkedin.com/in/welcome-to-the-profile-of-soumyodeep/) 
     - Anamitra Singha - MSR SIT - IIT Delhi - [![LinkedIn](https://github.com/raja17021998/Machine-Learning-Community-by-Shashwat-Bhardwaj/blob/main/Logos/LinkedIn.png?raw=true)](https://www.linkedin.com/in/anamitrasingha/)
     - Anant Sah - MTech MINDS - IIT Delhi - [![LinkedIn](https://github.com/raja17021998/Machine-Learning-Community-by-Shashwat-Bhardwaj/blob/main/Logos/LinkedIn.png?raw=true)](https://www.linkedin.com/in/anant-kumar-8b8663215/) 
@@ -23,7 +37,7 @@
     - T Karthikeyan - PhD MINDS - IIT Delhi - [![LinkedIn](https://github.com/raja17021998/Machine-Learning-Community-by-Shashwat-Bhardwaj/blob/main/Logos/LinkedIn.png?raw=true)](https://www.linkedin.com/in/t-karthikeyan-926781166/) 
     - Akshit Varmora - IIT Bombay - [![LinkedIn](https://github.com/raja17021998/Machine-Learning-Community-by-Shashwat-Bhardwaj/blob/main/Logos/LinkedIn.png?raw=true)](https://www.linkedin.com/in/akshit-varmora/) 
 
-- **Group Coordinators and Administrators**
+- #### **Group Coordinators and Administrators**
     - Aditya Azad - MTech CSE - IIT Kanpur - [![LinkedIn](https://github.com/raja17021998/Machine-Learning-Community-by-Shashwat-Bhardwaj/blob/main/Logos/LinkedIn.png?raw=true)](https://www.linkedin.com/in/adityaazad/)
     - Ruchita Rani - MTech CSE - IIT Kanpur - [![LinkedIn](https://github.com/raja17021998/Machine-Learning-Community-by-Shashwat-Bhardwaj/blob/main/Logos/LinkedIn.png?raw=true)](https://www.linkedin.com/in/ruchita-rani-9b8b95204) 
     - Preetam Chauhan - GATE DA Aspirant - [![LinkedIn](https://github.com/raja17021998/Machine-Learning-Community-by-Shashwat-Bhardwaj/blob/main/Logos/LinkedIn.png?raw=true)](https://www.linkedin.com/in/preetam-chauhan) 
@@ -32,9 +46,15 @@
 
 #### 🚀 Let's build a thriving community together! Join us on this exciting journey of learning and growth in the field of Machine Learning. 🌐
 
+## Join Us
+We'd love to have you as part of our community! Connect with us on:
+- [Telegram](https://t.me/+4UkEpZ100Ck5YjE1) 🎧
+- [Whatsapp](https://chat.whatsapp.com/INP29xmpCFCK41emrvbIkN) 💬
+
 <center>
 
-|S No.|Date| Description |Topic| PDF-Link | Video-Link|
+## Class Resources
+|S No.|Date| Description |Topic| PDF/Notebook | Video |
 |:--------:|:----------:|:--------:|:------:|:--------------:|:-----------:|
 |1|15/06/2024|Day 1 - Theory |Intro To ML,Basics of Convex Functions and Linear Regression |[![Link_to_PDF](https://github.com/raja17021998/Machine-Learning-Community-by-Shashwat-Bhardwaj/blob/main/Logos/PDF.png?raw=true?raw=true)](https://github.com/raja17021998/Machine-Learning-Community-by-Shashwat-Bhardwaj/blob/main/PDFs/Day_1.pdf) | [![Link_To_Video_updating_soon](_https://github.com/raja17021998/Machine-Learning-Community-by-Shashwat-Bhardwaj/blob/main/Logos/YT.png?raw=true)](https://www.youtube.com) |
 |2|15/06/2024|Day 1 - Question Practice | Linear Regression |[![Link_to_PDF](https://github.com/raja17021998/Machine-Learning-Community-by-Shashwat-Bhardwaj/blob/main/Logos/PDF.png?raw=true)](https://github.com/raja17021998/Machine-Learning-Community-by-Shashwat-Bhardwaj/blob/main/PDFs/Day_1_Numerical.pdf) | [![Link_To_Video_updating_soon](_https://github.com/raja17021998/Machine-Learning-Community-by-Shashwat-Bhardwaj/blob/main/Logos/YT.png?raw=true)](https://www.youtube.com) |
