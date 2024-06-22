@@ -3,7 +3,7 @@
 <h2 align="center">🌟 Welcome to Our Machine Learning Community 🌟</h2>
 
 <p align="center">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHJoZGdxN3BtN2Jjb3R0MjljNjIyYWQxZm8zbGcwZ3V3ejJ0dXJiOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8qrrHSsrK9xpknGVNF/giphy.webp" width="100%" height="150">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHJoZGdxN3BtN2Jjb3R0MjljNjIyYWQxZm8zbGcwZ3V3ejJ0dXJiOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8qrrHSsrK9xpknGVNF/giphy.webp" width="100%" height="300">
 </p>
 
 #### 👋 Hello! I'm Shashwat Bhardwaj, currently pursuing MSR in MINDS from the Indian Institute of Technology, Delhi.
