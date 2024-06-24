@@ -1,3 +1,4 @@
+[Go To Class Resources](#class-resources)
 <h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4.5%"></h1>
 
 <h2 align="center">🌟 Welcome to Our Machine Learning Community 🌟</h2>
